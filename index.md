@@ -1,2 +1,2 @@
-# RAM
-## Muri
+# This is muri
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
